@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "753115691226",
+    "firebase_url": "https://unclecabby-9ba88.firebaseio.com",
+    "project_id": "unclecabby-9ba88",
+    "storage_bucket": "unclecabby-9ba88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753115691226:android:8e9b8eccc1643a7a",
+        "android_client_info": {
+          "package_name": "com.unclecabby.unclecabby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753115691226-7jgush0cb75neh8ub3tsa4oe13aks7tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unclecabby.unclecabby",
+            "certificate_hash": "6753ae6503144de4fb52ddf01c9f584efa95f64b"
+          }
+        },
+        {
+          "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApb1tSYVSeAKTVS1K01Q-aMvBqR9zWBcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753115691226:android:089cec3b14ffb4ef",
+        "android_client_info": {
+          "package_name": "com.unclecabby.unclecabbydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753115691226-ovdns2te1efpcp7ssjlvodae1lbaggmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unclecabby.unclecabbydriver",
+            "certificate_hash": "6753ae6503144de4fb52ddf01c9f584efa95f64b"
+          }
+        },
+        {
+          "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApb1tSYVSeAKTVS1K01Q-aMvBqR9zWBcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753115691226-2036na1qa5g6em6k2ubniiv0me0ntsan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
